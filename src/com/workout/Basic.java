@@ -12,6 +12,11 @@ public class Basic {
 		Basic a = new Basic();
 		a.customerName();
 		a.customerId();
+		
+		System.out.println("Jitt Edited 1");
+		System.out.println("Jitt Edited 2");
+		System.out.println("Jitt Edited 3");
+
 		}
 	
 }
