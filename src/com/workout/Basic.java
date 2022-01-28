@@ -12,7 +12,15 @@ public class Basic {
 		Basic a = new Basic();
 		a.customerName();
 		a.customerId();
+		
+		System.out.println("Arun Edited 1");
+		System.out.println("Arun Edited 2");
+		System.out.println("Arun Edited 3");
+
 		}
+	
+
+	
 	
 }
 
